@@ -1,0 +1,37 @@
+12
+Homework 1
+90
+Homework
+Homework 2
+100
+Homework
+Homework 3
+80
+Homework
+Homework 4
+95
+Homework
+Exam 1
+88
+Exam
+Exam 2
+92
+Exam
+File Lab
+1
+Lab
+Classes Lab
+1
+Lab
+Syllabus Quiz
+100
+Quiz
+Ch 2
+80
+Quiz
+Ch 3
+100
+Quiz
+Ch 4 and 5
+80
+Quiz
